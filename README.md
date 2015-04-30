@@ -1,2 +1,2 @@
 # ElasticHub
-High scalable, Distributed, High available Message Queue/Hub.  
+High scalable, High available and Distributed Message Queue / Event Processing Framework.  
